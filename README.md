@@ -1,7 +1,7 @@
 # 🚀 Daniel Brito
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Electronics+Technician;Front-end+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Electronics+Technician;Front-end+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,7 +20,7 @@
 ### 💻 Linguagens e Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,7 +40,7 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbritojunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbritojunior&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbritojunior&layout=compact&theme=tokyonight"/>
 </div>
 
@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/daniel-brito-aa4216352" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto: danielbrito1221@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
