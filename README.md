@@ -10,7 +10,7 @@
 - 💼 Desenvolvimento e manutenção de landing pages para o cliente Santander.
 - 🎓 Estudante de Engenharia de Software na **FIAP**.
 - ⚡ Técnico em Eletrônica.
-- 📊 Especialista em análise de dados e dashboards.
+- 📊 Experiência em análise de dados e dashboards.
 - 🚀 Focado em criar soluções tecnológicas e em constante evolução.
 
 ---
