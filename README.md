@@ -40,8 +40,10 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbritojunior&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbritojunior&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=danielbritojunior&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=danielbritojunior&last_n_days=365" alt="GitHub Contributions"/>
 </div>
 
 ---
